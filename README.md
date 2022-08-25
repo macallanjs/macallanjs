@@ -1,9 +1,9 @@
-# ✨ Hi, I am Cryx
+# ✨ Hi, I am Macallan
 
-Hi, my name is Özgür and I'm 23. I started software development 3 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
+Hi, my name is Macallan and I'm 23. I started software development 3 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=cryxjs&color=dc143c"/>
+    <img src="https://komarev.com/ghpvc/?username=macallanjs&color=dc143c"/>
 </div>
 
 
@@ -14,9 +14,9 @@ Hi, my name is Özgür and I'm 23. I started software development 3 year ago wit
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/835405542985433118" target="_blank"><img src="https://shields.io/badge/Cryx-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/cryxjs" target="_blank"><img src="https://shields.io/badge/Cryx-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~cryxjs" target="_blank"><img src="https://shields.io/badge/Cryx-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://discord.com/users/835405542985433118" target="_blank"><img src="https://shields.io/badge/Mac-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/macallanjs" target="_blank"><img src="https://shields.io/badge/Mac-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.npmjs.com/~macallanjs" target="_blank"><img src="https://shields.io/badge/Mac-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://discord.gg/c79ePqm7xc" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
     <a href="https://top.gg/bot/853378760899428402"><img src="https://shields.io/badge/My Discord Bot-111111.svg?&style=for-the-badge"> </a>
     </div>
@@ -35,9 +35,9 @@ Hi, my name is Özgür and I'm 23. I started software development 3 year ago wit
 ## 📈 Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cryxjs&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=macallanjs&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryxjs&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macallanjs&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
 
 
